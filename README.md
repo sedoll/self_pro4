@@ -95,9 +95,6 @@
 🔹board🔹<br/>
 ![board](/output/db%ED%85%8C%EC%9D%B4%EB%B8%94/board.png) <br/>
 
-🔹boardLikes🔹<br/>
-![boardLikes](/output/db%ED%85%8C%EC%9D%B4%EB%B8%94/boardlikes.png) <br/>
-
 🔹cart🔹<br/>
 ![cart](/output/db%ED%85%8C%EC%9D%B4%EB%B8%94/cart.png) <br/>
 
@@ -119,20 +116,8 @@
 🔹info🔹<br/>
 ![info](/output/db%ED%85%8C%EC%9D%B4%EB%B8%94/info_act.png)<br/>
 
-🔹instfile🔹<br/>
-![instfile](/output/db%ED%85%8C%EC%9D%B4%EB%B8%94/instfile.png)<br/>
-
 🔹instructor🔹<br/>
 ![instructor](/output/db%ED%85%8C%EC%9D%B4%EB%B8%94/instructor.png)<br/>
-
-🔹instructorfile🔹<br/>
-![instructorfile](/output/db%ED%85%8C%EC%9D%B4%EB%B8%94/instructorfile.png)<br/>
-
-🔹instructornotice🔹<br/>
-![instructornotice](/output/db%ED%85%8C%EC%9D%B4%EB%B8%94/instructornotice.png)<br/>
-
-🔹instructorqna🔹<br/>
-![instructorqna](/output/db%ED%85%8C%EC%9D%B4%EB%B8%94/instructorqna.png)<br/>
 
 🔹lecfile🔹<br/>
 ![lecfile](/output/db%ED%85%8C%EC%9D%B4%EB%B8%94/lecfile.png)<br/>
