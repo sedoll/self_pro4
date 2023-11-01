@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="pro04:war" />
+      <artifact name="pro04:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4541e1ca-8a82-4273-acdd-669984c3b837" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="2WNkCMWd6QrQPnyZvfjX0fI5E50" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/git/self_pro4/pro04/src/main/webapp/resources/img",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "d3538b4f1cb4862d136facec5594f870",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git\self_pro4\pro04\src\main\webapp\resources\img" />
+      <recent name="D:\spring_study\pro04\src\main\webapp\WEB-INF\views" />
+      <recent name="D:\spring_study\pro04\src\main\webapp\WEB-INF\views\admin" />
+      <recent name="D:\spring_study\pro04\src\main\webapp\WEB-INF\views\lecture" />
+      <recent name="D:\spring_study\pro04\src\main\webapp\WEB-INF\views\review" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\spring_study\pro04\src\main\webapp\WEB-INF\views" />
+      <recent name="D:\spring_study\pro04\src\main\webapp\WEB-INF\views\review" />
+      <recent name="E:\git\spring_study\pro04\src\main\webapp\WEB-INF\views\member\myPage" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="kr.ed.haebeop.controller" />
+      <recent name="kr.ed.haebeop.domain" />
+      <recent name="kr.ed.haebeop.util" />
+      <recent name="kr.ed.haebeop.persistence" />
+      <recent name="kr.ed.haebeop.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.78">
+    <configuration name="DateCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.ed.haebeop.util.DateCalculator" />
+      <module name="pro04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.ed.haebeop.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.78" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.78" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="37cae5b9-e8b2-4949-9172-aafa37fbc09c" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="pro04:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/pro04_war" />
+          </settings>
+        </artifact>
+        <artifact name="pro04:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/pro04_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="876346ee-3c38-4d8f-96e6-9e9c7c8ff686" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55860" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="pro04:war" />
+          <artifact name="pro04:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DateCalculator" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.78" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DateCalculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4541e1ca-8a82-4273-acdd-669984c3b837" name="Changes" comment="" />
+      <created>1696580299615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696580299615</updated>
+      <workItem from="1696580300642" duration="635000" />
+      <workItem from="1696896769394" duration="19403000" />
+      <workItem from="1696923090311" duration="5964000" />
+      <workItem from="1696932143748" duration="351000" />
+      <workItem from="1696934264214" duration="1197000" />
+      <workItem from="1696936919769" duration="356000" />
+      <workItem from="1696982706751" duration="464000" />
+      <workItem from="1696986300283" duration="9016000" />
+      <workItem from="1697003118808" duration="9354000" />
+      <workItem from="1697013830725" duration="7583000" />
+      <workItem from="1697069919426" duration="12000" />
+      <workItem from="1697073538275" duration="19485000" />
+      <workItem from="1697155353884" duration="6782000" />
+      <workItem from="1697163445710" duration="19236000" />
+      <workItem from="1697264688101" duration="18516000" />
+      <workItem from="1697332187018" duration="2487000" />
+      <workItem from="1697414454026" duration="22504000" />
+      <workItem from="1697445683349" duration="1261000" />
+      <workItem from="1697452543219" duration="4000" />
+      <workItem from="1697452577071" duration="17000" />
+      <workItem from="1697500853977" duration="25457000" />
+      <workItem from="1697613448355" duration="224000" />
+      <workItem from="1697613682201" duration="3383000" />
+      <workItem from="1697674125608" duration="25799000" />
+      <workItem from="1697760537559" duration="8764000" />
+      <workItem from="1697791775533" duration="278000" />
+      <workItem from="1698039592539" duration="2991000" />
+      <workItem from="1698048717636" duration="95000" />
+      <workItem from="1698653949440" duration="2836000" />
+      <workItem from="1698843507448" duration="51000" />
+      <workItem from="1698843570132" duration="729000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

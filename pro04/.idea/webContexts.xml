@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/addProduct.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/lecture/getLecture.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/lecture" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/member/myPage/myPageindex.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/member/myPage" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/payment/addPayment.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/payment" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product/getProduct.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product/proList.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/review/updateReview.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/review" />
+      </map>
+    </option>
+  </component>
+</project>
